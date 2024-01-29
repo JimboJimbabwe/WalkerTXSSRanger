@@ -9,4 +9,8 @@ tests in this manner. Burp is a 3000 USD Program, so why not see if we can do it
 2.) Install Requirements
 3.) Start/double click the EXE
 4.) Open the webpage of interest
-5.) Do not move the 
+5.) Hit Enter once Adblock is off
+6.) Follow the instructions
+
+
+IMPORTANT: ONCE THE SCRIPT IS RUNNING DO NOT MOVE MOUSE. Nothing bad will happen, its just counterintuitive and can produce anomalies.
